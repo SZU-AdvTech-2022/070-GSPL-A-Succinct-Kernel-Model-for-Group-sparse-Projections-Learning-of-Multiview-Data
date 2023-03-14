@@ -1,0 +1,7 @@
+@article{REPO-071,
+    author = "Wu, Danyang and Xu, Jin and Dong, Xia and Liao, Meng and Wang, Rong and Nie, Feiping and Li, Xuelong",
+    booktitle = "Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, {IJCAI-21}",
+    pages = "3185--3191",
+    title = "{GSPL: A Succinct Kernel Model for Group-sparse Projections Learning of Multiview Data}",
+    year = "2021"
+}
